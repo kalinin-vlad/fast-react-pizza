@@ -1,3 +1,3 @@
-# React + Vite
+## pet-проект "Сервис по заказу пиццы"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Fast React Pizza](https://kalinin-vlad.github.io/fast-react-pizza)
