@@ -2,6 +2,7 @@
   "name": "fast-react-pizza",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://kalinin-vlad.github.io/fast-react-pizza",
   "type": "module",
   "scripts": {
     "dev": "vite",
